@@ -1,6 +1,3 @@
-<h1 align="center">
-<img src="frontend/src/assets/minimal-logo.svg" width="200px">
-</h1>
 
 ### :page_with_curl: Sobre
 Esse projeto é uma aplicaçao para barbearia, contendo agendamentos de horarios, cadastro de usuarios e autenticaçao
